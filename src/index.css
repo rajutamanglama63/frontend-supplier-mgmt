@@ -1,0 +1,6 @@
+@import 'tailwindcss';
+
+:root {
+  --font-sans: 'DM Sans', ui-sans-serif, system-ui, sans-serif;
+  --spacing-page: clamp(1.5rem, 5.5vw, 4.75rem);
+}
